@@ -1,0 +1,15 @@
+{
+    "name": "nagp-tushar-cloud-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tushar Kumar",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.0"
+    }
+  }
+  
